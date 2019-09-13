@@ -1,0 +1,10 @@
+C:\Users\LGIL_22\Documents\Programacion Aplic\Tarea 1\Tarea 1 - Registro\Diseño\bin\Debug\Diseño.exe.config
+C:\Users\LGIL_22\Documents\Programacion Aplic\Tarea 1\Tarea 1 - Registro\Diseño\bin\Debug\Diseño.exe
+C:\Users\LGIL_22\Documents\Programacion Aplic\Tarea 1\Tarea 1 - Registro\Diseño\bin\Debug\Diseño.pdb
+C:\Users\LGIL_22\Documents\Programacion Aplic\Tarea 1\Tarea 1 - Registro\Diseño\obj\Debug\Diseño.csprojAssemblyReference.cache
+C:\Users\LGIL_22\Documents\Programacion Aplic\Tarea 1\Tarea 1 - Registro\Diseño\obj\Debug\Diseño.Properties.Resources.resources
+C:\Users\LGIL_22\Documents\Programacion Aplic\Tarea 1\Tarea 1 - Registro\Diseño\obj\Debug\Diseño.csproj.GenerateResource.cache
+C:\Users\LGIL_22\Documents\Programacion Aplic\Tarea 1\Tarea 1 - Registro\Diseño\obj\Debug\Diseño.csproj.CoreCompileInputs.cache
+C:\Users\LGIL_22\Documents\Programacion Aplic\Tarea 1\Tarea 1 - Registro\Diseño\obj\Debug\Diseño.exe
+C:\Users\LGIL_22\Documents\Programacion Aplic\Tarea 1\Tarea 1 - Registro\Diseño\obj\Debug\Diseño.pdb
+C:\Users\LGIL_22\Documents\Programacion Aplic\Tarea 1\Tarea 1 - Registro\Diseño\obj\Debug\Diseño.rUsuario.resources
